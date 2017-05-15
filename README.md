@@ -5,7 +5,7 @@ This project contains health check code extracted from https://github.com/fabric
 ```bash
   curl -X GET -i http://localhost:8181/health-check
 ```
-#### Health Result Example
+#### Healthy Result Example
 ```bash
 HTTP/1.1 200 OK
 Date: Mon, 15 May 2017 23:11:25 GMT
