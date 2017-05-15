@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features>
+
+    <feature name="fuse-health-check-feature" version="${project.version}" install="auto">
+        <feature>scr</feature>
+        <feature>http</feature>
+    </feature>
+
+</features>
